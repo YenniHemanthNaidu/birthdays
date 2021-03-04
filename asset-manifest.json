@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/YenniHemanthNaidu/birthdays.git/static/css/main.6d45ffe5.chunk.css",
+    "main.js": "/YenniHemanthNaidu/birthdays.git/static/js/main.8622210f.chunk.js",
+    "main.js.map": "/YenniHemanthNaidu/birthdays.git/static/js/main.8622210f.chunk.js.map",
+    "runtime-main.js": "/YenniHemanthNaidu/birthdays.git/static/js/runtime-main.a56cb9f0.js",
+    "runtime-main.js.map": "/YenniHemanthNaidu/birthdays.git/static/js/runtime-main.a56cb9f0.js.map",
+    "static/js/2.b82bcc78.chunk.js": "/YenniHemanthNaidu/birthdays.git/static/js/2.b82bcc78.chunk.js",
+    "static/js/2.b82bcc78.chunk.js.map": "/YenniHemanthNaidu/birthdays.git/static/js/2.b82bcc78.chunk.js.map",
+    "index.html": "/YenniHemanthNaidu/birthdays.git/index.html",
+    "static/css/main.6d45ffe5.chunk.css.map": "/YenniHemanthNaidu/birthdays.git/static/css/main.6d45ffe5.chunk.css.map",
+    "static/js/2.b82bcc78.chunk.js.LICENSE.txt": "/YenniHemanthNaidu/birthdays.git/static/js/2.b82bcc78.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a56cb9f0.js",
+    "static/js/2.b82bcc78.chunk.js",
+    "static/css/main.6d45ffe5.chunk.css",
+    "static/js/main.8622210f.chunk.js"
+  ]
+}
